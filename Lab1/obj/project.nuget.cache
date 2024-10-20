@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oVh9ckvO4mA=",
+  "success": true,
+  "projectFilePath": "C:\\Myfolder\\University\\Course2\\Semester1\\OOP\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yarem\\.nuget\\packages\\nanoid\\3.1.0\\nanoid.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\bin\Debug\net8.0\Lab1.exe
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\bin\Debug\net8.0\Lab1.deps.json
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\bin\Debug\net8.0\Lab1.dll
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\bin\Debug\net8.0\Lab1.pdb
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.dll
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.pdb
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\ref\Lab1.dll
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\bin\Debug\net8.0\Nanoid.dll
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.csproj.AssemblyReference.cache
+C:\Myfolder\University\Course2\Semester1\OOP\Lab1\obj\Debug\net8.0\Lab1.csproj.Up2Date

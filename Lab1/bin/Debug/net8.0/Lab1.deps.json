@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab1/1.0.0": {
+        "dependencies": {
+          "Nanoid": "3.1.0"
+        },
+        "runtime": {
+          "Lab1.dll": {}
+        }
+      },
+      "Nanoid/3.1.0": {
+        "runtime": {
+          "lib/net8.0/Nanoid.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nanoid/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5vhxZ+1iVH213boPsR3KYQXWObZQcaGvLU9ytTroWJFeVzV2EFAtGgrmMpb8BCxd+KWeBASniZLzd3UQ0tkhRQ==",
+      "path": "nanoid/3.1.0",
+      "hashPath": "nanoid.3.1.0.nupkg.sha512"
+    }
+  }
+}
